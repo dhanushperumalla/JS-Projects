@@ -14,9 +14,7 @@ body {
 .question {
   font: 40px;
 }
-.game {
-  /* display: none; */
-}
+
 .answer {
   font: 24px;
   margin-bottom: 20px;
